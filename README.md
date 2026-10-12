@@ -2,12 +2,10 @@
 A do-it-yourself 21700 battery for use in UAVs or UGVs
 
 ## IMMEDIATE TO DO
-* Make a single common PCB for all battery configurations
-* implement the voltage sensing functionality and report over MAVLink via UART
-* Implement temperature measurement via two thermistors and report over MAVLink via UART
-* rework the end plate latching mechanism, which in its current form unlatches by pinching from the side, with a latching mechanism that unlatches by pinching from the top: this would facilitate ingress to/egress from the top surface, but requires load bearing on the interior top and bottom of the latching mechanism cutout. The point is to make it easy to vertically lift away/toward a sky-facing cutout in an airframe, such that the battery is suitable for use in a fixed-wing UAV. The current manifestation, where lifting from side handles, precludes this possibility. Keep in mind that it must be robot-gripper friendly for automated battery swapping, but also human hand compatible.
-* Complete the battery low voltage alarm circuit (flashing orange LED lights and loud buzzer) and add the details to this project
-* Replace JST-XH connector interface (used between battery and charging station/vehicle adapter) with machine pin headers
+* Cut carbon fiber plates for the quadrotor
+* Populate battery PCB and test
+* Populate low voltage alarm PCB and test
+* Upload files to GitHub
 
 ## FUTURE TO DO
 * Replace UART with CAN bus (use droneCAN?): this makes the signal more robust
