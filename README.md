@@ -5,8 +5,9 @@ A do-it-yourself 21700 battery for use in UAVs or UGVs
 * Cut carbon fiber plates for the quadrotor
 * Populate battery PCB and ground test
 * Populate low voltage alarm PCB and ground test
-* Update the end plates
+* Update the 3p, 4p, 5p end plates
 * Extend end plates to 7p and 8p
+* Perform flight test
 * Upload CAD files to GitHub
 * Upload PCB files to GitHub
 
