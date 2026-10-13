@@ -10,7 +10,7 @@ STILL IN PROGRESS... CHECK BACK LATER!!!
   <img src="Images/battery_on_vehicle_adapter.jpg" width="48%">
 </p>
 
-(robot manipulator and human hand-compliant latching mechanism embedded in battery end plates)
+(robot manipulator and human hand-compliant latching mechanism embedded in battery end plates; the white arms are meant to represent the fingers of the robot manipulator)
 
 <p align="center">
   <img src="Images/end_plate_mechanism_1.jpg" width="48%">
