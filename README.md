@@ -2,13 +2,15 @@
 A do-it-yourself 21700 battery for use in UAVs or UGVs. Scalable from 6s3p to 12s8p. Designed for automated battery swapping via SCARA robot arm.
 
 STILL IN PROGRESS... CHECK BACK LATER!!!
+CURRENT PROGRESS as of 2026/10/12...
 
-(current progress on vehicle adapter and battery shown below)
+(vehicle adapter and battery shown below)
 
 <p align="center">
   <img src="Images/vehicle_adapter.jpg" width="48%">
   <img src="Images/battery_on_vehicle_adapter.jpg" width="48%">
 </p>
+
 
 (human hand and robot manipulator-compliant latching mechanism embedded in battery end plates; note that the white arms are meant to represent the fingers of the robot manipulator)
 
@@ -17,12 +19,14 @@ STILL IN PROGRESS... CHECK BACK LATER!!!
   <img src="Images/end_plate_mechanism_2.jpg" width="48%">
 </p>
 
+
 (battery PCB, used for measuring voltages at each busbar and temperature at a single point in the battery (via thermistor), and reporting values in MAVLink BATTERY_STATUS message over UART to the flight controller) 
 
 <p align="center">
   <img src="Images/battery_pcb_1.png" width="48%">
   <img src="Images/battery_pcb_2.png" width="48%">
 </p>
+
 
 (position lights and low battery voltage alarm PCB, used for powering the position lights, orientation lights, and low battery voltage alarm lights and buzzer)
 
