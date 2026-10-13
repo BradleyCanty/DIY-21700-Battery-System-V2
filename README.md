@@ -3,7 +3,7 @@ A do-it-yourself 21700 battery for use in UAVs or UGVs
 
 STILL IN PROGRESS... CHECK BACK LATER!!!
 
-(current progress on battery and vehicle adapter shown below)
+(current progress on vehicle adapter and battery shown below)
 
 <p align="center">
   <img src="Images/vehicle_adapter.jpg" width="48%">
@@ -17,7 +17,19 @@ STILL IN PROGRESS... CHECK BACK LATER!!!
   <img src="Images/end_plate_mechanism_2.jpg" width="48%">
 </p>
 
+(battery PCB, used for measuring voltages at each busbar and temperature at a single point in the battery (via thermistor), and reporting values in MAVLink BATTERY_STATUS message over UART to the flight controller) 
 
+<p align="center">
+  <img src="Images/battery_pcb_1.png" width="48%">
+  <img src="Images/battery_pcb_2.png" width="48%">
+</p>
+
+(position lights and low battery voltage alarm PCB, used for powering the position lights, orientation lights, and low battery voltage alarm lights)
+
+<p align="center">
+  <img src="Images/position_lights_and_batt_low_voltage_alarm_pcb_1.png" width="48%">
+  <img src="Images/position_lights_and_batt_low_voltage_alarm_pcb_2.png" width="48%">
+</p>
 
 ## IMMEDIATE TO DO
 * Cut carbon fiber plates for the quadrotor
