@@ -1,6 +1,24 @@
 # DIY-21700-Battery-System-V2
 A do-it-yourself 21700 battery for use in UAVs or UGVs
 
+STILL IN PROGRESS... CHECK BACK LATER!!!
+
+(battery and vehicle adapter shown below)
+
+<p align="center">
+  <img src="Images/vehicle_adapter.jpg" width="48%">
+  <img src="Images/battery_on_vehicle_adapter.jpg" width="48%">
+</p>
+
+(robot manipulator and human hand-compliant latching mechanism)
+
+<p align="center">
+  <img src="Images/end_plate_mechanism_1.jpg" width="48%">
+  <img src="Images/end_plate_mechanism_2.jpg" width="48%">
+</p>
+
+
+
 ## IMMEDIATE TO DO
 * Cut carbon fiber plates for the quadrotor
 * Populate battery PCB and ground test
