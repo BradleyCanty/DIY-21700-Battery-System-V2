@@ -3,14 +3,14 @@ A do-it-yourself 21700 battery for use in UAVs or UGVs
 
 STILL IN PROGRESS... CHECK BACK LATER!!!
 
-(battery and vehicle adapter shown below)
+(current progress on battery and vehicle adapter shown below)
 
 <p align="center">
   <img src="Images/vehicle_adapter.jpg" width="48%">
   <img src="Images/battery_on_vehicle_adapter.jpg" width="48%">
 </p>
 
-(robot manipulator and human hand-compliant latching mechanism)
+(robot manipulator and human hand-compliant latching mechanism embedded in battery end plates)
 
 <p align="center">
   <img src="Images/end_plate_mechanism_1.jpg" width="48%">
