@@ -1,5 +1,5 @@
 # DIY-21700-Battery-System-V2
-A do-it-yourself 21700 battery for use in UAVs or UGVs
+A do-it-yourself 21700 battery for use in UAVs or UGVs. Scalable from 6s3p to 12s8p. Designed for automated battery swapping via SCARA robot arm.
 
 STILL IN PROGRESS... CHECK BACK LATER!!!
 
