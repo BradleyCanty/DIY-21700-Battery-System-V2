@@ -11,8 +11,7 @@ CURRENT PROGRESS as of 2026/10/12...
   <img src="Images/battery_on_vehicle_adapter.jpg" width="48%">
 </p>
 
-
-(human hand and robot manipulator-compliant latching mechanism embedded in battery end plates; note that the white arms are meant to represent the fingers of the robot manipulator)
+(human hand and robot manipulator-compliant latching mechanism embedded in battery end plates shown below; note that the white arms are meant to represent the fingers of the robot manipulator)
 
 <p align="center">
   <img src="Images/end_plate_mechanism_1.jpg" width="48%">
@@ -20,7 +19,7 @@ CURRENT PROGRESS as of 2026/10/12...
 </p>
 
 
-(battery PCB, used for measuring voltages at each busbar and temperature at a single point in the battery (via thermistor), and reporting values in MAVLink BATTERY_STATUS message over UART to the flight controller) 
+(battery PCB shown below; used for measuring voltages at each busbar and temperature at a single point in the battery (via thermistor), and reporting values in MAVLink BATTERY_STATUS message over UART to the flight controller) 
 
 <p align="center">
   <img src="Images/battery_pcb_1.png" width="48%">
@@ -28,7 +27,7 @@ CURRENT PROGRESS as of 2026/10/12...
 </p>
 
 
-(position lights and low battery voltage alarm PCB, used for powering the position lights, orientation lights, and low battery voltage alarm lights and buzzer)
+(position lights and low battery voltage alarm PCB shown below; used for powering the position lights, orientation lights, and low battery voltage alarm lights and buzzer)
 
 <p align="center">
   <img src="Images/position_lights_and_batt_low_voltage_alarm_pcb_1.png" width="48%">
