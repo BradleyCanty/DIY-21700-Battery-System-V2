@@ -24,7 +24,7 @@ STILL IN PROGRESS... CHECK BACK LATER!!!
   <img src="Images/battery_pcb_2.png" width="48%">
 </p>
 
-(position lights and low battery voltage alarm PCB, used for powering the position lights, orientation lights, and low battery voltage alarm lights)
+(position lights and low battery voltage alarm PCB, used for powering the position lights, orientation lights, and low battery voltage alarm lights and buzzer)
 
 <p align="center">
   <img src="Images/position_lights_and_batt_low_voltage_alarm_pcb_1.png" width="48%">
