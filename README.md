@@ -35,13 +35,14 @@ CURRENT PROGRESS as of 2026/10/12...
 </p>
 
 ## IMMEDIATE TO DO
-* Cut carbon fiber plates for the demo quadrotor
 * Populate battery PCB and ground test
 * Populate low voltage alarm PCB and ground test
-* Update the 3p, 4p, 5p end plates
+* Create the components for demo quadrotor
+* Complete the demo quadrotor and do ground testing on all functions
 * Perform flight test
-* Upload CAD files to GitHub
-* Upload PCB files to GitHub
+* Upload CAD files to GitHub only once its verified as working post flight test
+* Upload PCB files to GitHub only once its verified as working post flight test
+* * Update the 3p, 4p, 5p end plates
 
 ## FUTURE TO DO
 * Replace UART with CAN bus (use droneCAN?): this makes the signal more robust
