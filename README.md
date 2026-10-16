@@ -44,9 +44,10 @@ CURRENT PROGRESS as of 2026/10/12...
 * Upload PCB files to GitHub only once its verified as working post flight test
 * Update the 3p, 4p, 5p end plates
 
-## FUTURE TO DO
+## FUTURE TO DO (V3)
 * Replace UART with CAN bus (use droneCAN?): this makes the signal more robust
 * make an automated battery swapping system composed of a robot arm with a gripper and some way to precisely orient the gripper to actuate the latching mechanism on the battery (maybe can use RTK GPS to make the vehicle position very accurate, move robot arm over that position, then have a camera on the robot arm find an ArUco target located next to the battery and use it to 1) orient the gripper, 2) center gripper over battery)
 * Eliminate balance pins entirely (such as Tattu Plus DroneCAN battery): the battery would instead have an internal battery management system that broadcasts telemetry (real-time individual cell voltages, cycles, capacity, and temperature) directly onto a Controller Area Network (CAN) bus (use DroneCAN protocol?). The charger would reads this data dynamically to manage current distribution safely. See https://ardupilot.org/copter/docs/common-tattu-dronecan-battery.html?st_source=ai_mode
 * Extend battery configuration to 24 cells in series (~100V). Requires extra safety precautions for creepage and redesign of PCBs, specifically MOSFETs in antispark circuit
 * Extend end plate cell widths to 7 up to 12
+* Create circuit which has supercapacitors that power the quadrotor for ~45 seconds when the used battery is removed: this allows enough time for a fresh battery to be installed, preventing system shutdown
