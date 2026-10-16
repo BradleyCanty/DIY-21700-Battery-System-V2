@@ -42,7 +42,7 @@ CURRENT PROGRESS as of 2026/10/12...
 * Perform flight test
 * Upload CAD files to GitHub only once its verified as working post flight test
 * Upload PCB files to GitHub only once its verified as working post flight test
-* * Update the 3p, 4p, 5p end plates
+* Update the 3p, 4p, 5p end plates
 
 ## FUTURE TO DO
 * Replace UART with CAN bus (use droneCAN?): this makes the signal more robust
