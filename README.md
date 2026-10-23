@@ -26,6 +26,13 @@ CURRENT PROGRESS as of 2026/10/23...
   <img src="Images/battery_pcb_2.png" width="48%">
 </p>
 
+(position lights and low battery voltage alarm PCB shown below; used for powering the position lights, orientation lights, and low battery voltage alarm lights and buzzer)
+
+<p align="center">
+  <img src="Images/position_lights_and_batt_low_voltage_alarm_pcb_1.png" width="48%">
+  <img src="Images/position_lights_and_batt_low_voltage_alarm_pcb_2.png" width="48%">
+</p>
+
 (additional images of battery progress as of 2026/10/23)
 
 <img width="4080" height="3072" alt="PXL_20261023_152130491~2" src="https://github.com/user-attachments/assets/a7392df0-47bf-413d-b4c9-120e16e1e378" />
@@ -38,13 +45,6 @@ CURRENT PROGRESS as of 2026/10/23...
 <img width="3072" height="4080" alt="PXL_20261023_160129843" src="https://github.com/user-attachments/assets/ccfa21c0-7910-4416-8ae4-00024d325eed" />
 <img width="3072" height="4080" alt="PXL_20261023_160245169" src="https://github.com/user-attachments/assets/c668d0fb-968e-4113-a876-88e8afbfb398" />
 <img width="4080" height="3072" alt="PXL_20261023_160451805" src="https://github.com/user-attachments/assets/2fe7c997-7408-44f8-b060-fa4f2f3ad180" />
-
-(position lights and low battery voltage alarm PCB shown below; used for powering the position lights, orientation lights, and low battery voltage alarm lights and buzzer)
-
-<p align="center">
-  <img src="Images/position_lights_and_batt_low_voltage_alarm_pcb_1.png" width="48%">
-  <img src="Images/position_lights_and_batt_low_voltage_alarm_pcb_2.png" width="48%">
-</p>
 
 (SCARA robot Solidworks assembly)
 
