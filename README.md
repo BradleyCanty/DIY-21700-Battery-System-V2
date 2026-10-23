@@ -2,7 +2,7 @@
 A do-it-yourself 21700 battery for use in UAVs or UGVs. Scalable from 6s3p to 12s8p. Designed for automated battery swapping via SCARA robot arm.
 
 STILL IN PROGRESS... CHECK BACK LATER!!!
-CURRENT PROGRESS as of 2026/10/12...
+CURRENT PROGRESS as of 2026/10/23...
 
 (vehicle adapter and battery shown below)
 
@@ -26,6 +26,18 @@ CURRENT PROGRESS as of 2026/10/12...
   <img src="Images/battery_pcb_2.png" width="48%">
 </p>
 
+(additional images of battery progress as of 2026/10/23)
+
+<img width="4080" height="3072" alt="PXL_20261023_152130491~2" src="https://github.com/user-attachments/assets/a7392df0-47bf-413d-b4c9-120e16e1e378" />
+<img width="4080" height="3072" alt="PXL_20261023_152154996~2" src="https://github.com/user-attachments/assets/5f130431-4f1d-448c-98da-9fea2a8f942d" />
+<img width="4080" height="3072" alt="PXL_20261023_152228921~2" src="https://github.com/user-attachments/assets/461db30e-c5df-44e3-93d3-deba047a295f" />
+<img width="4080" height="3072" alt="PXL_20261023_152218209~2" src="https://github.com/user-attachments/assets/32f9102a-8b7e-4c95-a59a-5cca56d8aa4b" />
+<img width="4080" height="3072" alt="PXL_20261023_153041098~2" src="https://github.com/user-attachments/assets/30d65617-d144-4fb8-ad66-99b8cebaa466" />
+<img width="4080" height="3072" alt="PXL_20261023_153941220" src="https://github.com/user-attachments/assets/45a4e4e7-436b-4d60-b5d1-5b8cb51a37dc" />
+<img width="3072" height="3700" alt="PXL_20261023_154424698" src="https://github.com/user-attachments/assets/1b8eef8d-1ee5-4b2d-83d5-6d882b11901a" />
+<img width="3072" height="4080" alt="PXL_20261023_160129843" src="https://github.com/user-attachments/assets/ccfa21c0-7910-4416-8ae4-00024d325eed" />
+<img width="3072" height="4080" alt="PXL_20261023_160245169" src="https://github.com/user-attachments/assets/c668d0fb-968e-4113-a876-88e8afbfb398" />
+<img width="4080" height="3072" alt="PXL_20261023_160451805" src="https://github.com/user-attachments/assets/2fe7c997-7408-44f8-b060-fa4f2f3ad180" />
 
 (position lights and low battery voltage alarm PCB shown below; used for powering the position lights, orientation lights, and low battery voltage alarm lights and buzzer)
 
@@ -33,6 +45,16 @@ CURRENT PROGRESS as of 2026/10/12...
   <img src="Images/position_lights_and_batt_low_voltage_alarm_pcb_1.png" width="48%">
   <img src="Images/position_lights_and_batt_low_voltage_alarm_pcb_2.png" width="48%">
 </p>
+
+(SCARA robot Solidworks assembly)
+
+<img width="690" height="787" alt="battery_swap_scara" src="https://github.com/user-attachments/assets/d2c7feb8-2a87-48c0-b5d1-9ba59c8ef2fa" />
+
+(SCARA robot manipulator for battery pick-and-place)
+
+<img width="4080" height="3072" alt="PXL_20261023_152100001" src="https://github.com/user-attachments/assets/274ac4bc-a860-4051-9840-99b7512cabe1" />
+<img width="4080" height="3072" alt="PXL_20261023_152111332~2" src="https://github.com/user-attachments/assets/173739bd-8d24-42ab-8d8a-9ff2cf7fa5a7" />
+
 
 ## IMMEDIATE TO DO
 * Populate battery PCB and ground test
