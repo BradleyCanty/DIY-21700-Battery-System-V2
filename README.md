@@ -2,6 +2,7 @@
 A do-it-yourself 21700 battery for use in UAVs or UGVs. Scalable from 6s3p to 12s8p. Designed for automated battery swapping via SCARA robot arm.
 
 STILL IN PROGRESS... CHECK BACK LATER!!!
+
 CURRENT PROGRESS as of 2026/10/23...
 
 (vehicle adapter and battery shown below)
